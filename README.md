@@ -17,7 +17,7 @@ A simple console-based Hostel Management System written in C++ that uses MySQL f
 
 ---
 
-## 💃️ Database Setup
+## Database Setup
 
 Before running the program, set up your MySQL database as follows:
 
